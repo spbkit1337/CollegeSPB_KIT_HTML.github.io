@@ -1,0 +1,89 @@
+#school {
+	
+	padding-top: 20px;
+	text-align:center;
+	font-size:22pt;
+	font-weight:bold;
+	height:130px;
+	background-color:#0893d3;
+	color:white;
+	
+}
+
+#comp {
+	padding-top: 20px;
+	text-align:center;
+	font-size:20pt;
+	font-weight:bold;
+	height:60px;
+	
+	margin-left:50px;
+	margin-right:50px;
+	background-color:#66cbf9;
+	color:#1433fb;
+	
+	
+}
+
+#kyrc {
+	color:#b10e0e;
+	
+	
+}
+
+#p1
+{
+	color:#b10e0e;
+	font-size:130%;
+	
+	
+}
+
+#per {
+	color:#b10e0e;
+	font-size:130%;
+}
+
+#kon
+{
+	padding-top: 20px;
+	text-align:center;
+	font-size:20pt;
+	font-weight:bold;
+	height:60px;
+	
+	margin-left:50px;
+	margin-right:50px;
+	background-color:blue;
+	color:white;
+	
+	
+	
+}
+
+#p2 {
+	
+	border-radius:15px;
+	font-size:130%;
+	border:6px solid;
+	border-color:#66cbf9;
+	width:70%;
+	color:#1433fb;
+	margin-left:20px;
+	
+	
+	
+}
+
+
+#p3 {
+	border-radius:15px;
+	font-size:130%;
+	border: 6px solid;
+	border-color:#66cbf9;
+	width:70%;
+	color:#1433fb;
+	margin-left:20px;
+	
+	
+}
