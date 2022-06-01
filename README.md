@@ -7,7 +7,7 @@
 ![Screenshot 2022-06-01 at 15-21-34 Основы](https://user-images.githubusercontent.com/51737588/171403495-cafdd8f4-b1eb-4dce-9278-2823612a9615.png)
 
 
-2)Простой текст: https://spbkit1337.github.io/CollegeSPB_KIT_HTML.github.io/Основы HTML.html (нужно вручную скопировать ссылку и вставить в поисковик)
+2)Простой текст: https://spbkit1337.github.io/CollegeSPB_KIT_HTML.github.io/Основы HTML.html (нужно вручную скопировать ссылку до HTML.html и вставить в поисковик)
 
 ![Screenshot 2022-06-01 at 15-23-33 Сайт начинающего верстальщика](https://user-images.githubusercontent.com/51737588/171403632-53ae593f-7cdf-444f-824d-0ee67cbf5050.png)
 
